@@ -1,0 +1,11 @@
+name: shiny_app
+title:
+username:
+account: ntmv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5208023
+bundleId: 5295283
+url: https://ntmv.shinyapps.io/shiny_app/
+when: 1637912263.68009
+lastSyncTime: 1637912263.6801

@@ -1,0 +1,14 @@
+name: aruleskaggle2017_updated
+title: aruleskaggle2017_updated
+username:
+account: ntmv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5307792
+bundleId: 5357561
+url: https://ntmv.shinyapps.io/aruleskaggle2017_updated/
+when: 1639176856.59024
+lastSyncTime: 1639176856.59026
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: avengers_process.R
