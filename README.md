@@ -1,8 +1,6 @@
 
 ## Association Rule Learning: Exploring the 2017 Kaggle Machine Learning and Data Science Survey through a Shiny App
 
-### Assignment B4: Option C
-
 In 2017, Kaggle conducted an industry-wide survey to gain a
 comprehensive understanding of the data science and machine learning job
 landscape. Over 16,000 data scientists, students and professionals
