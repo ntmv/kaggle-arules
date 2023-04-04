@@ -13,7 +13,7 @@ The updated shiny dashboard can be accessed by following this link:
 
 <https://ntmv.shinyapps.io/aruleskaggle2017_updated/>
 
-The shiny dashboard submitted for Assignment B-3 can be accessed on the
+A previous version can be accessed on the
 Shiny apps server by following this link:
 
 <https://ntmv.shinyapps.io/shiny_app/>
@@ -21,7 +21,7 @@ Shiny apps server by following this link:
 The app is built incorporating algorithms and visualizations powered by
 the `arules` and `arulesViz` libraries.
 
-This updated version of the app largely features changes to the UI, with
+The updated version of the app largely features changes to the UI, with
 the app being migrated to `shinydashboard` for a cleaner user
 interaction and a larger visualization, with an information button that
 details the purpose and use of the app.
